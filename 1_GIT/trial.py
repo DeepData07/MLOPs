@@ -19,3 +19,5 @@
 #xg-boost-tested
 
 print("hello wr=orld")
+
+print("After running pre-commit hook")
